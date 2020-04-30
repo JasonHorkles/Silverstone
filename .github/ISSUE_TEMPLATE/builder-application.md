@@ -34,4 +34,4 @@ assignees: JasonHorkles
 
 
 ## My builds
-<!--- Copy and paste the image here and it should automatically upload it for you. Check the preview tab to make sure the formatting is right. --->
+<!--- Click the button right below this text to upload the images here. Check the preview tab to make sure the formatting is right --->
