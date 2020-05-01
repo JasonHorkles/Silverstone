@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Leave suggestions for our server here
+about: Submit a suggestion
 title: "[SUGGESTION] (Your suggestion)"
 labels: Suggestion
 assignees: JasonHorkles
