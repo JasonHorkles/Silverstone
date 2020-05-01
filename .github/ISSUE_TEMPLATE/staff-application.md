@@ -18,7 +18,7 @@ assignees: JasonHorkles
 **My Minecraft username:**
 
 
-**My current rank:**
+**My current rank (shown in tab):**
 
 
 **My current time played on the server:**

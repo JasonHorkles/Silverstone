@@ -18,7 +18,7 @@ assignees: JasonHorkles
 **My Minecraft username:**
 
 
-**My current rank:**
+**My current rank (shown in tab):**
 
 
 **Why I want to be a builder:**

@@ -14,7 +14,7 @@ Am I re-submitting my application?
 My Minecraft username:
 
 
-My current rank:
+My current rank (shown in tab):
 
 
 What I did to get punished:
