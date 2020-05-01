@@ -25,7 +25,7 @@ assignees: JasonHorkles
 
 
 **My current age (if you don't want this to be public DM it to me on Discord):**
-
+<!--- Please note that you MUST be over the age of 13 to apply as you can't have a GitHub account if you're under 13 --->
 
 **Why I want to be a staff member:**
 
