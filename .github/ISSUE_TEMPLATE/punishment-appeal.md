@@ -8,25 +8,25 @@ assignees: JasonHorkles
 
 ---
 
-Am I re-submitting my application?
+#### Am I re-submitting my application?
 <!--- Write your answer on this line --->
 
-My Minecraft username:
+#### My Minecraft username:
 
 
-My current rank (shown in tab):
+#### My current rank (shown in tab):
 
 
-What I did to get punished:
+#### What I did to get punished:
 
 
-Why I want to be pardoned:
+#### Why I want to be pardoned:
 
 
-Do I believe I deserve to be pardoned? If not, do I believe the punishment time should be shortened?
+#### Do I believe I deserve to be pardoned? If not, do I believe the punishment time should be shortened?
 
 
-Will I ever repeat what I did to get punished?
+#### Will I ever repeat what I did to get punished?
 
 
 ### By checking this box I agree to never do what I got punished for again and understand that future appeals may not be accepted if I am punished again.
