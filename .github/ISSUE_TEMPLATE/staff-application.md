@@ -31,6 +31,9 @@ assignees: JasonHorkles
 #### Why I want to be a staff member:
 
 
+#### How often am I / will I be on the server?
+
+
 #### On a scale of 1-10, how good of a staff member do I think I'd be (1 being terrible and 10 being fantastic)?
 
 
