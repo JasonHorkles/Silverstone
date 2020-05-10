@@ -3,7 +3,7 @@ name: Builder Application
 about: Apply for the builder rank
 title: "[BUILDER] (Your MC username)"
 labels: Builder
-assignees: JasonHorkles
+assignees: ''
 
 ---
 

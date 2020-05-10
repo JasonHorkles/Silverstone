@@ -4,7 +4,7 @@ about: Use this if you were jailed, banned, or some other punishment and want it
   be appealed
 title: "[APPEAL] (Your MC username)"
 labels: Appeal
-assignees: JasonHorkles
+assignees: ''
 
 ---
 
