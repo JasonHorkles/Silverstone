@@ -1,7 +1,7 @@
 ---
 name: Builder Application
 about: Apply for the builder rank
-title: "[BUILDER] (Your MC username)"
+title: "[BUILDER] <Your MC username>"
 labels: Builder
 assignees: ''
 

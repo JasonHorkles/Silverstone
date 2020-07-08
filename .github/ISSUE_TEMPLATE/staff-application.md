@@ -1,7 +1,7 @@
 ---
 name: Staff Application
 about: Apply for staff
-title: "[STAFF] (Your MC username)"
+title: "[STAFF] <Your MC username>"
 labels: Staff
 assignees: ''
 

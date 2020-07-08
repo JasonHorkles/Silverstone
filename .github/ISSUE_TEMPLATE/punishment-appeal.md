@@ -2,7 +2,7 @@
 name: Punishment Appeal
 about: Use this if you were jailed, banned, or some other punishment and want it to
   be appealed
-title: "[APPEAL] (Your MC username)"
+title: "[APPEAL] <Your MC username>"
 labels: Appeal
 assignees: ''
 
