@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-<!--- Before submitting your request, make sure it complies with the mod restrictions found at https://github.com/JasonHorkles/Silverstone/wiki/Modifications#types-of-mods-we-allow --->
+<!--- Before submitting your request, make sure it complies with the mod restrictions found at https://rebrand.ly/SilverstoneMods --->
 
 #### The mod's ID:
 <!--- The mod ID can be found by going into the Mod menu and clicking your mod's name. See https://imgur.com/hIhKjTy.png for an example. --->
