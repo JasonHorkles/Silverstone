@@ -42,3 +42,6 @@ assignees: ''
 
 #### Do I swear I'll do my best to enforce the server rules at all times?
 <!--- Write your answer below this line --->
+
+#### Please write a paragraph with a minimum of 75 words explaining why you think you should be a moderator.
+<!--- Write your answer below this line --->
