@@ -31,7 +31,10 @@ assignees: ''
 #### Why I want to be a staff member:
 <!--- Write your answer below this line --->
 
-#### How often am I / will I be on the server?
+#### How often am I / will I be on Minecraft the server?
+<!--- Write your answer below this line --->
+
+#### How often am I / will I be active in the Discord the server?
 <!--- Write your answer below this line --->
 
 #### On a scale of 1-10, how good of a staff member do I think I'd be (1 being terrible and 10 being fantastic)?
