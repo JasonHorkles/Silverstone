@@ -34,7 +34,7 @@ assignees: ''
 #### Why I want to be a staff member:
 <!--- Write your answer below this line --->
 
-#### How often am I / will I be on Minecraft the server?
+#### How often am I / will I be on the Minecraft server?
 <!--- Write your answer below this line --->
 
 #### How often am I / will I be active in the Discord the server?
