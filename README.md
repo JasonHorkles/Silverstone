@@ -4,6 +4,8 @@ Click [here](https://github.com/JasonHorkles/Silverstone/issues/new/choose) to c
 
 Visit [this link](https://rebrand.ly/SilverstoneEndReset) to see when The End resets
 
+Join our Discord server for the latest news [here](https://discord.gg/VVSUEPd)
+
 The [legacy forums](https://jasonhorkles.wixsite.com/server-backup/forum) can be found here
 
 # Meet the staff
