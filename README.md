@@ -12,7 +12,7 @@ Join our Discord server for the latest news [here](https://discord.gg/VVSUEPd)
 ### Owner
 | JasonHorkles |
 |-|
-| ![image](https://minotar.net/armor/body/a28173aff0a947fe854919c6bccf68da/100.png) |
+| ![image](https://mc-heads.net/player/a28173aff0a947fe854919c6bccf68da/100.png) |
 
 ### Admins
 Acealation | Redstone_Master6
