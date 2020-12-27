@@ -17,9 +17,9 @@ Join our Discord server for the latest news [here](https://discord.gg/VVSUEPd)
 ### Admins
 Acealation | Redstone_Master6
 -|-
-![image](https://minotar.net/armor/body/5c3d3b7caa024751ae4b60b277da9c35/100.png) | ![image](https://minotar.net/armor/body/75fb05a29d9e49cbbe346bd5215548ba/100.png)
+![image](https://mc-heads.net/player/5c3d3b7caa024751ae4b60b277da9c35/100.png) | ![image](https://mc-heads.net/player/75fb05a29d9e49cbbe346bd5215548ba/100.png)
 
 ### Moderators
 AlbaAurDraconis | Falcynn | dash794
 -|-|-
-![image](https://minotar.net/armor/body/e70a462285b6417d92017322e5094465/100.png) | ![image](https://minotar.net/armor/body/ebe36b5e52eb4956aee4f4f6e3136189/100.png) | ![image](https://minotar.net/armor/body/da17e35728ae43e4ba52176ae6c04145/100.png)
+![image](https://mc-heads.net/player/e70a462285b6417d92017322e5094465/100.png) | ![image](https://mc-heads.net/player/ebe36b5e52eb4956aee4f4f6e3136189/100.png) | ![image](https://mc-heads.net/player/da17e35728ae43e4ba52176ae6c04145/100.png)
