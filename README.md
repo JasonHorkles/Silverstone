@@ -21,5 +21,5 @@ Acealation | Redstone_Master6
 
 ### Moderators
 AlbaAurDraconis | Falcynn
--|-|-
+-|-
 ![image](https://mc-heads.net/player/e70a462285b6417d92017322e5094465/100.png) | ![image](https://mc-heads.net/player/ebe36b5e52eb4956aee4f4f6e3136189/100.png)
