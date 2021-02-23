@@ -1,7 +1,7 @@
 ---
 name: Grief Report
 about: Report a potential grief at a specific location
-title: "[GRIEF REPORT]"
+title: Grief Report
 labels: Grief Report
 assignees: ''
 
