@@ -24,8 +24,7 @@ assignees: ''
 #### My current time played on the server:
 <!--- Write your answer below this line --->
 
-#### My current age (if you don't want this to be public DM it to me on Discord):
-<!--- Please note that you MUST be over the age of 13 to apply as you can't have a GitHub nor Discord account if you're under 13 --->
+#### My current age (if you don't want this to be public DM it to `Jason H#0552` on Discord):
 <!--- Write your answer below this line --->
 
 #### Why I want to be a staff member:
