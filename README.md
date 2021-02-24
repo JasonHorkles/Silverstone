@@ -2,8 +2,6 @@
 # Forums
 ### [CLICK HERE TO LEARN HOW TO PROPERLY SUBMIT AN ISSUE (BUG REPORT, APPLICATION, ETC)](https://github.com/JasonHorkles/Silverstone/wiki)
 
-The legacy forums can be found [here](https://jasonhorkles.wixsite.com/server-backup/forum)
-
 # Info
 Visit [this link](https://rebrand.ly/SilverstoneEndReset) to see when The End resets
 
