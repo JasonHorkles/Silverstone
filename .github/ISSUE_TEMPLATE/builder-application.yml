@@ -15,8 +15,8 @@ body:
   attributes:
     label: "Am I re-submitting my application?"
     options:
-      - Yes
-      - No
+      - "Yes"
+      - "No"
   validations:
     required: true
 
