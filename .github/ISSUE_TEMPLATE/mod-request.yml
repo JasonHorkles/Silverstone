@@ -13,7 +13,7 @@ body:
 - type: input
   attributes:
     label: The mod's ID
-    description: "The mod ID can be found by going into the Mod menu and clicking your mod's name. See https://imgur.com/hIhKjTy.png for an example."
+    description: "The mod ID can be found by going into the Mod menu and clicking your mod's name. See https://i.imgur.com/hIhKjTy.png for an example."
     placeholder: ambientsounds
   validations:
     required: true
