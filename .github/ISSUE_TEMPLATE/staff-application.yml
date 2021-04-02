@@ -9,7 +9,7 @@ body:
   attributes:
     value: |
       ## If an application is declined, you may submit one again in 1 month.
-      ## Make sure you meet the requirements (`/staff` command in-game) before applying.
+      ### Make sure you meet the requirements (`/staff` command in-game) before applying.
       ### If the application isn't responded to quickly, it may be because we want to give it some more time before making a decision. Be patient.
 
 - type: dropdown
