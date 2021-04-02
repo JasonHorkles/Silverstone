@@ -31,10 +31,9 @@ body:
 - type: input
   attributes:
     label: My Discord username & tag
-    description: Optional, would only be used for better communication
     placeholder: Jason H#0552
   validations:
-    required: false
+    required: true
 
 - type: input
   attributes:
