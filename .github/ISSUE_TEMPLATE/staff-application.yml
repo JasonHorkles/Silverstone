@@ -48,7 +48,7 @@ body:
   attributes:
     label: My total time played on the server (in hours)
     description: "Type `/ptt` in-game for the time played"
-    placeholder: 32
+    placeholder: "32"
   validations:
     required: true
 
@@ -56,7 +56,7 @@ body:
   attributes:
     label: My current age
     description: "DM it to `Jason H#0552` on Discord if you don't want this public"
-    placeholder: 19
+    placeholder: "19"
   validations:
     required: false
 
