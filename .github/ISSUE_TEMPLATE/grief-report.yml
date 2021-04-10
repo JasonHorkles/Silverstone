@@ -19,7 +19,9 @@ body:
   validations:
     required: true
 
-- type: markdown
+- type: textarea
   attributes:
-    value: |
-      ## What happened?
+    label: What happened
+    description: You may provide screenshots of the damage
+  validations:
+    required: true

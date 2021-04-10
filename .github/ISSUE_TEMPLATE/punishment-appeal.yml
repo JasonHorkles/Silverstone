@@ -3,7 +3,6 @@ description: Use this if you were jailed, banned, or some other punishment and w
 title: Punishment Appeal
 labels: Appeal
 assignees: ''
-issue_body: true
 body:
 - type: input
   attributes:

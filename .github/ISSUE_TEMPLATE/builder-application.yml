@@ -3,7 +3,6 @@ description: Apply for the builder rank
 title: Builder Application
 labels: Builder
 assignees: ''
-issue_body: true
 body:
 - type: markdown
   attributes:
@@ -34,7 +33,7 @@ body:
     placeholder: Jason H#0552
   validations:
     required: false
-    
+
 - type: input
   attributes:
     label: My current rank
@@ -84,7 +83,9 @@ body:
   validations:
     required: true
 
-- type: markdown
+- type: textarea
   attributes:
-    value: |
-      ## Please upload 3 or more images of your builds from both off and on the Silverstone server
+    label: Images
+    description: "Upload 3 or more images of your builds from both off and on the Silverstone server"
+  validations:
+    required: true

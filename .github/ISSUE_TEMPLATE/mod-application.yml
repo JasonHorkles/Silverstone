@@ -3,7 +3,6 @@ description: Apply for the moderator position
 title: Staff Application
 labels: Staff
 assignees: ''
-issue_body: true
 body:
 - type: markdown
   attributes:
@@ -106,7 +105,9 @@ body:
   validations:
     required: true
 
-- type: markdown
+- type: textarea
   attributes:
-    value: |
-      ## Please write a paragraph with a minimum of 75 words explaining why you think you should be a moderator
+    label: Explanation
+    description: "Write a paragraph with a minimum of 75 words explaining why you think you should be a moderator"
+  validations:
+    required: true

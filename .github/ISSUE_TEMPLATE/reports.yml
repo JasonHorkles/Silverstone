@@ -3,7 +3,6 @@ description: Report anyone breaking rules
 title: Player Report
 labels: Report
 assignees: ''
-issue_body: true
 body:
 - type: input
   attributes:
@@ -27,11 +26,13 @@ body:
 
 - type: textarea
   attributes:
+    label: Evidence
+    description: "Provide a video or screenshots of the player violating the rules"
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
     label: Any additional notes
   validations:
     required: false
-
-- type: markdown
-  attributes:
-    value: |
-      ## Evidence

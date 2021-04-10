@@ -3,7 +3,6 @@ description: Have a mod that isn't whitelisted on the server? Request to have it
 title: ''
 labels: Mod Request
 assignees: ''
-issue_body: false
 body:
 - type: markdown
   attributes:
