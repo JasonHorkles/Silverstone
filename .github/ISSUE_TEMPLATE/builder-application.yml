@@ -2,7 +2,6 @@ name: Builder Application
 description: Apply for the builder rank
 title: Builder Application
 labels: Builder
-assignees: ''
 body:
 - type: markdown
   attributes:
