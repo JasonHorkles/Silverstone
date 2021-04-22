@@ -1,8 +1,6 @@
 name: Modification Request
 description: Have a mod that isn't whitelisted on the server? Request to have it added here!
-title: ''
 labels: Mod Request
-assignees: ''
 body:
 - type: markdown
   attributes:
