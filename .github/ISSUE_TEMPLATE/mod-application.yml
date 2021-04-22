@@ -2,7 +2,6 @@ name: Moderator Application
 description: Apply for the moderator position
 title: Staff Application
 labels: Staff
-assignees: ''
 body:
 - type: markdown
   attributes:
