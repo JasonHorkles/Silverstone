@@ -2,7 +2,6 @@ name: Grief Report
 description: Report a potential grief at a specific location
 title: Grief Report
 labels: Grief Report
-issue_body: true
 body:
 - type: input
   attributes:
