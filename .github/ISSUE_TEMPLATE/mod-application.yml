@@ -10,9 +10,9 @@ body:
       ### If the application isn't responded to quickly, it may be because we want to give it some more time before making a decision. Be patient.
       ###
       ### Requirements:
-      ####  - Total playtime of over 24 hours. Use the command ``/playtime` in-game to see your total time
-      ####  - Deemed worthy by other staff members and have proven to be a good moderator (like by following all the rules and having little to no warnings)"
-      ####  - Must have Discord, be active in our server at https://discord.gg/VVSUEPd, and must have the Silverstone Gang role (see #self-roles)
+        - Total playtime of over 24 hours. Use the command `/playtime` in-game to see your total time
+        - Deemed worthy by other staff members and have proven to be a good moderator (like by following all the rules and having little to no warnings)"
+        - Must have Discord, be active in our server [here](https://discord.gg/VVSUEPd), and must have the Silverstone Gang role (see #self-roles)
 
 - type: dropdown
   attributes:
