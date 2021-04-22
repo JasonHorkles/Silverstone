@@ -2,7 +2,6 @@ name: Punishment Appeal
 description: Use this if you were jailed, banned, or some other punishment and want it to be appealed
 title: Punishment Appeal
 labels: Appeal
-assignees: ''
 body:
 - type: input
   attributes:
