@@ -41,4 +41,4 @@ body:
     label: "By checking this box I agree to never again do what I did to get punished. I also understand that future appeals may not be accepted if I am punished again."
     options:
       - label: I agree
-        required: true
+        required: false
