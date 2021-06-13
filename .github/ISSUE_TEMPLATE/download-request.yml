@@ -61,5 +61,6 @@ body:
     options:
       - Schematic File (.schem)
       - Region File (.mca)
+      - Both
   validations:
     required: true
