@@ -10,6 +10,23 @@ body:
   validations:
     required: true
 
+- type: dropdown
+  attributes:
+    label: World of the grief
+    description: Your current world can be found in the player tab list
+    options:
+      - Survival
+      - Survival (Nether)
+      - Survival (Player Shops)
+      - Survival (The End)
+      - Minigames-A
+      - Minigames-E
+      - Minigames-T
+      - Plots
+      - Utility
+  validations:
+    required: true
+
 - type: input
   attributes:
     label: The coordinates at the location of the grief
